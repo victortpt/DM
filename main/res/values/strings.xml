@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConfiguradorCoche</string>
+    <string name="extras">Tipo</string>
+    <string name="observaciones">observaciones</string>
+    <string name="tipo">tipo</string>
+    <string name="carroceria">carroceria</string>
+</resources>
